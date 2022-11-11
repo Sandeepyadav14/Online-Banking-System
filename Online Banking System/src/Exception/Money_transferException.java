@@ -3,7 +3,7 @@ package Exception;
 import java.io.PrintStream;
 import java.io.PrintWriter;
 
-public class CustomerException extends Exception {
+public class Money_transferException extends Exception {
 
 	@Override
 	public String getMessage() {
@@ -94,5 +94,6 @@ public class CustomerException extends Exception {
 		// TODO Auto-generated method stub
 		super.finalize();
 	}
+	
 
 }
