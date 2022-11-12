@@ -93,7 +93,11 @@ public Customer(int customer_id, String customer_name, String customer_city, Str
 	Account_type = account_type;
 	Account_number = account_number;
 	this.customer_balance = customer_balance;
-	
+	this.customer_password = customer_password;
 }
+public Customer() {
+	// TODO Auto-generated constructor stub
+}
+
   
 }
