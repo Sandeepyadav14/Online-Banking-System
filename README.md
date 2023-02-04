@@ -4,9 +4,13 @@ In this project i implemethod of admin and customer method.seprately.I create th
 
 # Admin
 Admin can create account for customer.
+
 Admin can show all the customer account details.
+
 Admin can show transaction history.
+
 Admin can see all the data of eac customer by account number and edit the detail of customer.
+
 
 # Customer
 Customer can open a new account in the bank.
