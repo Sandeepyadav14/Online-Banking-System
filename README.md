@@ -10,17 +10,28 @@ Admin can see all the data of eac customer by account number and edit the detail
 
 # Customer
 Customer can open a new account in the bank.
+
 Customer can edit the our details.
+
 Customer can see oun  all details.
+
 Customer can get the loan.
+
 Customer see the all our  transanction history.
+
+
 
 # Tables
 Admin table.
+
 Customer table.
+
 Transaction History table.
+
 Deposit table.
+
 Withdrawal table.
+
 Loan table.
 
 
